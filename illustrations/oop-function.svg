@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="260" viewBox="0 0 920 260" role="img">
+<rect width="920" height="260" rx="18" fill="#FFFDF8"/>
+<circle cx="28" cy="28" r="8" fill="#E3EEFB"/>
+<circle cx="892" cy="36" r="12" fill="#FCE8E0"/>
+<circle cx="46" cy="236" r="7" fill="#DFF3EA"/>
+<rect x="36" y="40" width="360" height="160" rx="16" fill="#D7F3F5" stroke="#0E7490" stroke-width="2.4"/>
+<text x="216" y="78" fill="#111111" font-size="22" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">def hello()</text>
+<text x="216" y="118" fill="#0E7490" font-size="16" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">still a function</text>
+<text x="216" y="154" fill="#111111" font-size="16" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">hello()</text>
+<line x1="408" y1="120" x2="478" y2="120" stroke="#1F3A68" stroke-width="3" stroke-linecap="round"/><polygon points="490,120 478,113 478,127" fill="#1F3A68"/>
+<rect x="502" y="40" width="382" height="160" rx="16" fill="#EDE7F8" stroke="#6B4FBB" stroke-width="2.4"/>
+<text x="693" y="78" fill="#6B4FBB" font-size="18" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">hello.__dict__</text>
+<rect x="534" y="104" width="318" height="58" rx="12" fill="#FFFDF8" stroke="#6B4FBB" stroke-width="1.6"/>
+<text x="693" y="133" fill="#111111" font-size="20" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">name   =   noha</text>
+<text x="460" y="232" fill="#5C6570" font-size="15" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">hello.name = 'noha' sticks a field on the function object.</text>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="340" viewBox="0 0 920 340" role="img">
+<rect width="920" height="340" rx="18" fill="#FFFDF8"/>
+<circle cx="28" cy="28" r="8" fill="#E3EEFB"/>
+<circle cx="892" cy="36" r="12" fill="#FCE8E0"/>
+<circle cx="46" cy="316" r="7" fill="#DFF3EA"/>
+<rect x="32" y="28" width="272" height="250" rx="16" fill="#E7ECF4" stroke="#1F3A68" stroke-width="2.4"/>
+<text x="168" y="58" fill="#1F3A68" font-size="18" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">list</text>
+<rect x="50" y="84" width="236" height="38" rx="10" fill="#FFFDF8" stroke="#1F3A68" stroke-width="1.6"/>
+<text x="168" y="103" fill="#111111" font-size="15" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">0   Noha</text>
+<rect x="50" y="130" width="236" height="38" rx="10" fill="#FFFDF8" stroke="#1F3A68" stroke-width="1.6"/>
+<text x="168" y="149" fill="#111111" font-size="15" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">1   iti</text>
+<rect x="50" y="176" width="236" height="38" rx="10" fill="#FFFDF8" stroke="#1F3A68" stroke-width="1.6"/>
+<text x="168" y="195" fill="#111111" font-size="15" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">2   34</text>
+<text x="168" y="244" fill="#1F3A68" font-size="14" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">no field names</text>
+<rect x="324" y="28" width="272" height="250" rx="16" fill="#DFF3EA" stroke="#17885B" stroke-width="2.4"/>
+<text x="460" y="58" fill="#17885B" font-size="18" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">emp1</text>
+<rect x="342" y="84" width="236" height="38" rx="10" fill="#FFFDF8" stroke="#17885B" stroke-width="1.6"/>
+<text x="460" y="103" fill="#111111" font-size="15" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">name  Ahmed</text>
+<rect x="342" y="130" width="236" height="38" rx="10" fill="#FFFDF8" stroke="#17885B" stroke-width="1.6"/>
+<text x="460" y="149" fill="#111111" font-size="15" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">age  22</text>
+<rect x="342" y="176" width="236" height="38" rx="10" fill="#FFFDF8" stroke="#17885B" stroke-width="1.6"/>
+<text x="460" y="195" fill="#111111" font-size="15" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">salary  10000</text>
+<text x="460" y="244" fill="#17885B" font-size="14" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">print_emp works</text>
+<rect x="616" y="28" width="272" height="250" rx="16" fill="#FDECEC" stroke="#B83232" stroke-width="2.4"/>
+<text x="752" y="58" fill="#B83232" font-size="18" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">emp2</text>
+<rect x="634" y="84" width="236" height="38" rx="10" fill="#FFFDF8" stroke="#B83232" stroke-width="1.6"/>
+<text x="752" y="103" fill="#111111" font-size="15" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">emp_name  Areeeg</text>
+<rect x="634" y="130" width="236" height="38" rx="10" fill="#FFFDF8" stroke="#B83232" stroke-width="1.6"/>
+<text x="752" y="149" fill="#111111" font-size="15" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">age  22</text>
+<rect x="634" y="176" width="236" height="38" rx="10" fill="#FFFDF8" stroke="#B83232" stroke-width="1.6"/>
+<text x="752" y="195" fill="#111111" font-size="15" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">salary  20000</text>
+<text x="752" y="244" fill="#B83232" font-size="14" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">KeyError: name</text>
+<text x="460" y="312" fill="#5C6570" font-size="15" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">Same idea, three shapes. Only emp1 has the key the function asks for.</text>
+</svg>

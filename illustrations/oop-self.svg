@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="300" viewBox="0 0 920 300" role="img">
+<rect width="920" height="300" rx="18" fill="#FFFDF8"/>
+<circle cx="28" cy="28" r="8" fill="#E3EEFB"/>
+<circle cx="892" cy="36" r="12" fill="#FCE8E0"/>
+<circle cx="46" cy="276" r="7" fill="#DFF3EA"/>
+<rect x="32" y="28" width="272" height="210" rx="16" fill="#DFF3EA" stroke="#17885B" stroke-width="2.4"/>
+<text x="168" y="60" fill="#17885B" font-size="14" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">on the object</text>
+<text x="168" y="108" fill="#111111" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">padel.start_game()</text>
+<text x="168" y="150" fill="#111111" font-size="16" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">self  =  padel</text>
+<text x="168" y="196" fill="#17885B" font-size="16" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">prints padel</text>
+<rect x="324" y="28" width="272" height="210" rx="16" fill="#FDECEC" stroke="#B83232" stroke-width="2.4"/>
+<text x="460" y="60" fill="#B83232" font-size="14" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">on the class</text>
+<text x="460" y="108" fill="#111111" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">Game.start_game()</text>
+<text x="460" y="150" fill="#111111" font-size="16" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">self is missing</text>
+<text x="460" y="196" fill="#B83232" font-size="16" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">TypeError</text>
+<rect x="616" y="28" width="272" height="210" rx="16" fill="#E3EEFB" stroke="#2468B8" stroke-width="2.4"/>
+<text x="752" y="60" fill="#2468B8" font-size="14" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">you pass it</text>
+<text x="752" y="108" fill="#111111" font-size="14" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">Game.start_game(ono)</text>
+<text x="752" y="150" fill="#111111" font-size="16" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">self  =  ono</text>
+<text x="752" y="196" fill="#2468B8" font-size="16" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">prints ono</text>
+<text x="460" y="272" fill="#5C6570" font-size="15" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">The first parameter is the object. A dot call fills it. A bare class call does not.</text>
+</svg>

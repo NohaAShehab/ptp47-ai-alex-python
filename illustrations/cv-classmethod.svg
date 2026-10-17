@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="300" viewBox="0 0 920 300" role="img">
+<rect width="920" height="300" rx="18" fill="#FFFDF8"/>
+<circle cx="28" cy="28" r="8" fill="#E3EEFB"/>
+<circle cx="892" cy="36" r="12" fill="#FCE8E0"/>
+<circle cx="46" cy="276" r="7" fill="#DFF3EA"/>
+<rect x="32" y="28" width="400" height="210" rx="16" fill="#EDE7F8" stroke="#6B4FBB" stroke-width="2.4"/>
+<text x="232" y="60" fill="#6B4FBB" font-size="16" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">Student.registry</text>
+<rect x="58" y="86" width="348" height="52" rx="12" fill="#FFFDF8" stroke="#6B4FBB" stroke-width="1.6"/>
+<text x="232" y="112" fill="#111111" font-size="16" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">noha   →   this student</text>
+<text x="232" y="164" fill="#6B4FBB" font-size="16" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">stored in __init__</text>
+<text x="232" y="198" fill="#111111" font-size="15" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">one dict for the class</text>
+<rect x="468" y="28" width="420" height="96" rx="16" fill="#D7F3F5" stroke="#0E7490" stroke-width="2.4"/>
+<text x="678" y="62" fill="#111111" font-size="18" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">load_students(cls)</text>
+<text x="678" y="94" fill="#0E7490" font-size="15" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">returns cls.registry</text>
+<rect x="468" y="142" width="420" height="96" rx="16" fill="#E3EEFB" stroke="#2468B8" stroke-width="2.4"/>
+<text x="678" y="176" fill="#111111" font-size="16" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">search_student(cls, name)</text>
+<text x="678" y="208" fill="#2468B8" font-size="15" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">cls.registry.get(name)</text>
+<text x="460" y="272" fill="#5C6570" font-size="15" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">cls is the class Student. These calls do not need one student as self.</text>
+</svg>

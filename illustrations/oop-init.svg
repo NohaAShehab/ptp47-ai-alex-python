@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="296" viewBox="0 0 920 296" role="img">
+<rect width="920" height="296" rx="18" fill="#FFFDF8"/>
+<circle cx="28" cy="28" r="8" fill="#E3EEFB"/>
+<circle cx="892" cy="36" r="12" fill="#FCE8E0"/>
+<circle cx="46" cy="272" r="7" fill="#DFF3EA"/>
+<rect x="36" y="32" width="390" height="200" rx="16" fill="#E3EEFB" stroke="#2468B8" stroke-width="2.4"/>
+<text x="231" y="68" fill="#2468B8" font-size="20" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">1   __new__</text>
+<text x="231" y="112" fill="#111111" font-size="18" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">reserve an address</text>
+<text x="231" y="150" fill="#2468B8" font-size="16" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">store it in e</text>
+<text x="231" y="186" fill="#111111" font-size="16" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">that address is self</text>
+<line x1="438" y1="132" x2="488" y2="132" stroke="#1F3A68" stroke-width="3" stroke-linecap="round"/><polygon points="500,132 488,125 488,139" fill="#1F3A68"/>
+<rect x="512" y="32" width="372" height="200" rx="16" fill="#FFF6D6" stroke="#A85F00" stroke-width="2.4"/>
+<text x="698" y="68" fill="#A85F00" font-size="18" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">2   __init__(self)</text>
+<text x="698" y="114" fill="#111111" font-size="18" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">name = Habiba</text>
+<text x="698" y="150" fill="#111111" font-size="18" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">salary = 20000</text>
+<text x="698" y="190" fill="#A85F00" font-size="14" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">every employee, same values</text>
+<text x="460" y="268" fill="#5C6570" font-size="15" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">Fixed strings inside __init__ make every new employee a copy of Habiba.</text>
+</svg>

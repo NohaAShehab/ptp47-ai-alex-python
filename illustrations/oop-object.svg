@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="286" viewBox="0 0 920 286" role="img">
+<rect width="920" height="286" rx="18" fill="#FFFDF8"/>
+<circle cx="28" cy="28" r="8" fill="#E3EEFB"/>
+<circle cx="892" cy="36" r="12" fill="#FCE8E0"/>
+<circle cx="46" cy="262" r="7" fill="#DFF3EA"/>
+<rect x="32" y="36" width="260" height="190" rx="16" fill="#E7ECF4" stroke="#1F3A68" stroke-width="2.4"/>
+<text x="162" y="68" fill="#1F3A68" font-size="16" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">1  Student()</text>
+<text x="162" y="110" fill="#111111" font-size="16" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">std</text>
+<text x="162" y="142" fill="#111111" font-size="16" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">empty object</text>
+<text x="162" y="174" fill="#111111" font-size="16" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">__dict__  { }</text>
+<line x1="300" y1="130" x2="342" y2="130" stroke="#1F3A68" stroke-width="3" stroke-linecap="round"/><polygon points="354,130 342,123 342,137" fill="#1F3A68"/>
+<rect x="330" y="36" width="260" height="190" rx="16" fill="#FFF6D6" stroke="#A85F00" stroke-width="2.4"/>
+<text x="460" y="68" fill="#A85F00" font-size="16" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">2  write fields</text>
+<text x="460" y="110" fill="#111111" font-size="16" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">std.name = Karen</text>
+<text x="460" y="142" fill="#111111" font-size="16" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">std.city = Alex</text>
+<text x="460" y="174" fill="#111111" font-size="16" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">on this object only</text>
+<line x1="598" y1="130" x2="640" y2="130" stroke="#1F3A68" stroke-width="3" stroke-linecap="round"/><polygon points="652,130 640,123 640,137" fill="#1F3A68"/>
+<rect x="628" y="36" width="260" height="190" rx="16" fill="#DFF3EA" stroke="#17885B" stroke-width="2.4"/>
+<text x="758" y="68" fill="#17885B" font-size="16" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">3  __dict__</text>
+<text x="758" y="110" fill="#111111" font-size="16" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">name   Karen</text>
+<text x="758" y="142" fill="#111111" font-size="16" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">city   Alex</text>
+<text x="758" y="174" fill="#111111" font-size="16" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">stored on std</text>
+<text x="460" y="258" fill="#5C6570" font-size="15" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">The class never listed name or city. They were written after birth.</text>
+</svg>

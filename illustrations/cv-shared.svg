@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="304" viewBox="0 0 920 304" role="img">
+<rect width="920" height="304" rx="18" fill="#FFFDF8"/>
+<circle cx="28" cy="28" r="8" fill="#E3EEFB"/>
+<circle cx="892" cy="36" r="12" fill="#FCE8E0"/>
+<circle cx="46" cy="280" r="7" fill="#DFF3EA"/>
+<rect x="250" y="24" width="420" height="78" rx="16" fill="#FFF6D6" stroke="#A85F00" stroke-width="2.4"/>
+<text x="460" y="50" fill="#A85F00" font-size="15" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">Student.count</text>
+<text x="460" y="78" fill="#111111" font-size="26" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">2</text>
+<rect x="36" y="150" width="250" height="90" rx="16" fill="#E3EEFB" stroke="#2468B8" stroke-width="2.4"/>
+<text x="161" y="180" fill="#2468B8" font-size="15" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">s.__dict__</text>
+<text x="161" y="210" fill="#111111" font-size="16" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">id  name  age</text>
+<rect x="634" y="150" width="250" height="90" rx="16" fill="#E3EEFB" stroke="#2468B8" stroke-width="2.4"/>
+<text x="759" y="180" fill="#2468B8" font-size="15" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">s2.count</text>
+<text x="759" y="210" fill="#111111" font-size="16" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">not on s2</text>
+<defs>
+<marker id="climb" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="userSpaceOnUse">
+<polygon points="0,0 12,6 0,12" fill="#A85F00"/>
+</marker>
+</defs>
+<line x1="759" y1="148" x2="600" y2="108" stroke="#A85F00" stroke-width="3.4" marker-end="url(#climb)"/>
+<text x="500" y="128" fill="#A85F00" font-size="14" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">lookup climbs</text>
+<text x="460" y="276" fill="#5C6570" font-size="15" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">count is missing from the object dictionary, so Python reads it from the class.</text>
+</svg>

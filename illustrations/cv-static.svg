@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="280" viewBox="0 0 920 280" role="img">
+<rect width="920" height="280" rx="18" fill="#FFFDF8"/>
+<circle cx="28" cy="28" r="8" fill="#E3EEFB"/>
+<circle cx="892" cy="36" r="12" fill="#FCE8E0"/>
+<circle cx="46" cy="256" r="7" fill="#DFF3EA"/>
+<rect x="250" y="28" width="420" height="110" rx="16" fill="#D7F3F5" stroke="#0E7490" stroke-width="2.4"/>
+<text x="460" y="64" fill="#111111" font-size="20" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">cal_net_sal(salary)</text>
+<text x="460" y="102" fill="#0E7490" font-size="18" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">return salary * 0.8</text>
+<rect x="36" y="168" width="272" height="52" rx="16" fill="#E7ECF4" stroke="#1F3A68" stroke-width="2.4"/>
+<text x="172" y="194" fill="#111111" font-size="13" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">cal_net_sal(545572)</text>
+<rect x="324" y="168" width="272" height="52" rx="16" fill="#E7ECF4" stroke="#1F3A68" stroke-width="2.4"/>
+<text x="460" y="194" fill="#111111" font-size="13" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">emp.cal_net_sal(...)</text>
+<rect x="612" y="168" width="272" height="52" rx="16" fill="#E7ECF4" stroke="#1F3A68" stroke-width="2.4"/>
+<text x="748" y="194" fill="#111111" font-size="13" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">Employee.cal_net_sal(...)</text>
+<text x="460" y="252" fill="#5C6570" font-size="15" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">The helper only needs a number. No self, and no cls.</text>
+</svg>

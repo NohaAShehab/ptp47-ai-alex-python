@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="300" viewBox="0 0 920 300" role="img">
+<rect width="920" height="300" rx="18" fill="#FFFDF8"/>
+<circle cx="28" cy="28" r="8" fill="#E3EEFB"/>
+<circle cx="892" cy="36" r="12" fill="#FCE8E0"/>
+<circle cx="46" cy="276" r="7" fill="#DFF3EA"/>
+<rect x="32" y="36" width="270" height="210" rx="16" fill="#E7ECF4" stroke="#1F3A68" stroke-width="2.4"/>
+<text x="167" y="68" fill="#1F3A68" font-size="13" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">CLASS</text>
+<text x="167" y="104" fill="#111111" font-size="28" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">Student</text>
+<rect x="58" y="132" width="218" height="36" rx="10" fill="#FFFDF8" stroke="#1F3A68" stroke-width="1.6"/>
+<text x="78" y="150" fill="#1F3A68" font-size="15" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="start" dominant-baseline="central">name</text>
+<text x="250" y="150" fill="#8A93A0" font-size="15" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="end" dominant-baseline="central">____</text>
+<rect x="58" y="180" width="218" height="36" rx="10" fill="#FFFDF8" stroke="#1F3A68" stroke-width="1.6"/>
+<text x="78" y="198" fill="#1F3A68" font-size="15" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="start" dominant-baseline="central">city</text>
+<text x="250" y="198" fill="#8A93A0" font-size="15" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="end" dominant-baseline="central">____</text>
+<line x1="312" y1="140" x2="356" y2="140" stroke="#1F3A68" stroke-width="3" stroke-linecap="round"/><polygon points="368,140 356,133 356,147" fill="#1F3A68"/>
+<rect x="380" y="36" width="240" height="210" rx="16" fill="#DFF3EA" stroke="#17885B" stroke-width="2.4"/>
+<text x="500" y="68" fill="#17885B" font-size="13" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">OBJECT</text>
+<text x="500" y="108" fill="#111111" font-size="26" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">Karen</text>
+<text x="500" y="150" fill="#17885B" font-size="15" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">city</text>
+<text x="500" y="178" fill="#111111" font-size="20" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">Alex</text>
+<rect x="640" y="36" width="244" height="210" rx="16" fill="#E3EEFB" stroke="#2468B8" stroke-width="2.4"/>
+<text x="762" y="68" fill="#2468B8" font-size="13" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">OBJECT</text>
+<text x="762" y="108" fill="#111111" font-size="26" font-weight="700" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">Mariam</text>
+<text x="762" y="150" fill="#111111" font-size="16" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">grade  100</text>
+<text x="762" y="180" fill="#111111" font-size="16" font-weight="700" font-family="DejaVu Sans Mono, Liberation Mono, monospace" text-anchor="middle" dominant-baseline="central">mood  happy</text>
+<text x="460" y="274" fill="#5C6570" font-size="15" font-weight="600" font-family="DejaVu Sans, Liberation Sans, Segoe UI, sans-serif" text-anchor="middle" dominant-baseline="central">The class is the empty shape. Each object fills its own card.</text>
+</svg>
