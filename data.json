@@ -1,0 +1,21 @@
+[
+  {
+    "model": "Abc",
+    "color": "red",
+    "price": 1000,
+    "year": 2026
+  },
+  {
+    "model": "Abcd",
+    "color": "blue",
+    "price": 1000,
+    "year": 2026
+  },
+  {
+    "model": "Mac",
+    "color": "white",
+    "price": 1000,
+    "year": 2026
+  }
+
+]
